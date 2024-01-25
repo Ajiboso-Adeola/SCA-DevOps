@@ -1,4 +1,3 @@
 Hello World!
 I'm trying to jump into DevOps but they said there's no soft landing, so I need to walk.
-Hi there
 Adeola is a vibe
